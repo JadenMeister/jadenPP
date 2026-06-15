@@ -69,7 +69,7 @@ export const projects: Project[] = [
     repositoryUrl: 'https://github.com/JadenMeister/gallery',
     liveUrl: 'https://gallery-wine-psi.vercel.app/',
     image: {
-      src: '/projects/gallery/overview.jpg',
+      src: `${import.meta.env.BASE_URL}projects/gallery/overview.jpg`,
       alt: {
         en: 'Deployed PicformJaden gallery showing the Captured: Moments, Fragments exhibition',
         ko: 'Captured: Moments, Fragments 전시를 보여주는 PicformJaden 배포 화면',

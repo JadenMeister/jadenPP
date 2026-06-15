@@ -46,7 +46,7 @@ describe('project approval gate', () => {
       'https://gallery-wine-psi.vercel.app/',
     )
     expect(findApprovedProject('immersive-photo-gallery')?.image?.src).toBe(
-      '/projects/gallery/overview.jpg',
+      `${import.meta.env.BASE_URL}projects/gallery/overview.jpg`,
     )
   })
 })
