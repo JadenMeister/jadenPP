@@ -6,24 +6,23 @@ export const ko = {
       portfolio: '포트폴리오',
     },
     hero: {
-      eyebrow: '풀스택 개발자 · 보안을 생각하는 개발자',
-      title: '인터페이스부터 모델까지, 실제로 쓰이는 시스템을 만듭니다.',
+      eyebrow: 'Full-stack Developer',
+      title: '요구사항에서 시작해, 직접 설계하고 빌드합니다.',
       intro:
-        'React 인터페이스, Spring Boot 서비스, Python·FastAPI와 머신러닝으로 기술 영역을 확장해 왔습니다. 시큐어 코딩, 명확한 제품 사고, 실제 운영에서 견디는 소프트웨어를 중요하게 생각합니다.',
+        '프론트엔드, 백엔드, 머신러닝 API를 함께 다루며 웹 서비스를 구현합니다. 사이버보안공학 배경을 바탕으로 보안과 운영 안정성을 코드 단계에서 고려합니다.',
       primary: '프로젝트 보기',
       secondary: '경력 살펴보기',
-      availability: '대한민국 거주 · 글로벌 기회에 열려 있음',
+      availability: 'Korea-based · Global roles',
     },
     home: {
-      routeEyebrow: '목적에 맞게 살펴보세요',
+      routeEyebrow: 'Start here',
       resumeTitle: '이력서',
-      resumeBody:
-        '경력, 학력, 자격, 기술 역량을 채용 검토에 적합한 문서 형태로 정리했습니다.',
+      resumeBody: '경력, 학력, 자격, 기술 스택을 이력서 형태로 정리했습니다.',
       portfolioTitle: '포트폴리오',
       portfolioBody:
-        '문제 정의, 기여 범위, 기술적 판단을 중심으로 프로젝트 사례를 살펴볼 수 있습니다.',
+        '프로젝트별 역할, 기술 스택, 구현 내용, 링크를 정리했습니다.',
       open: '페이지 열기',
-      currentFocus: '현재 집중 영역',
+      currentFocus: 'Working stack',
     },
     resume: {
       eyebrow: '페이지 이력서',

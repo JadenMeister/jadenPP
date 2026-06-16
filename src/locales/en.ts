@@ -6,24 +6,24 @@ export const en = {
       portfolio: 'Portfolio',
     },
     hero: {
-      eyebrow: 'Full-stack developer · Security-minded builder',
-      title: 'I build useful systems from interface to model.',
+      eyebrow: 'Full-stack Developer',
+      title: 'From requirements to design and build.',
       intro:
-        'My path runs from React interfaces through Spring Boot services to Python, FastAPI, and machine learning. I care about secure implementation, clear product thinking, and software that holds up in real operations.',
+        'I build web applications and APIs across frontend, backend, and applied machine learning. My background in cybersecurity keeps security and reliability close to the implementation.',
       primary: 'Explore my work',
       secondary: 'Read my background',
-      availability: 'Based in Korea · Open to global opportunities',
+      availability: 'Korea-based · Open to global roles',
     },
     home: {
-      routeEyebrow: 'Choose how you want to evaluate my work',
+      routeEyebrow: 'Start here',
       resumeTitle: 'Resume',
       resumeBody:
-        'Experience, education, certification, and capabilities organized as a recruiter-friendly document.',
+        'Work experience, education, certifications, and technical stack.',
       portfolioTitle: 'Portfolio',
       portfolioBody:
-        'Project case studies centered on problem framing, contribution, and engineering decisions.',
+        'Project case studies with role, stack, implementation details, and links.',
       open: 'Open page',
-      currentFocus: 'Current focus',
+      currentFocus: 'Working stack',
     },
     resume: {
       eyebrow: 'Page resume',
